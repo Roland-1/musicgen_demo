@@ -1,0 +1,7 @@
+audiocraft==1.2.0
+einops==0.8.0
+gradio==4.31.2
+ipython==8.12.3
+torch==2.1.0
+torchaudio==2.1.0
+transformers==4.40.2
